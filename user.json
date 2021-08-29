@@ -1,0 +1,21 @@
+[{    
+      "id": 1001,
+      "first_name": "Amol",
+      "last_name": "Barkale",
+      "email": "amol_nj2_051@@masai.school",
+      "gender": "MAle",
+      "ip_address": "164.215.194.36",
+      "age": 28
+      
+  },
+  {    
+      "id": 1002,
+      "first_name": "Shailesh",
+      "last_name": "Barkle",
+      "email": "amol_nj_051@@masai.school",
+      "gender": "MAle",
+      "ip_address": "764.215.194.36",
+      "age": 25
+      
+  }
+]
